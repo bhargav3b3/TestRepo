@@ -1,2 +1,3 @@
 file line
 second line
+third line is added through develop before merging feature1 into develop.
